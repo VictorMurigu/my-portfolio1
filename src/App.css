@@ -200,16 +200,19 @@ nav.navbar {
     font-weight: 100;
 }
 
-/* .introText {} */
+ .introText {
+     font-size:3.75rem;
+ } 
 
 .introName {
+    font-size:3.75rem;
     color: goldenrod;
     font-weight: 900;
 
 }
 
 .introParagraph {
-    font-size:medium;
+    font-size:1rem;
     font-weight: 300;
 }
 
