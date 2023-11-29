@@ -155,7 +155,7 @@ nav.navbar {
     z-index:-1;
     top: 7rem;
     object-fit: cover;
-    right: 0;
+    right: 1.5rem;
     /* left:60%; */
     /* transform:translateX(-20%); */
     background: transparent;
