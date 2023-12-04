@@ -8,7 +8,7 @@ const Intro = () => {
                 <span className="hello">Hello, </span>
                 <span className="introText">I'm
                     <span className="introName"> Victor</span><br />
-                    Website Designer
+                    <span className="introProfile">Website Designer</span>
                 </span>
                 <p className='introParagraph'>I am a skilled and passionate web designer<br /> with experience in creating visually appealing<br /> and user-friendly websites</p>
                 
